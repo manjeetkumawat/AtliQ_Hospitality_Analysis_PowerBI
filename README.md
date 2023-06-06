@@ -18,8 +18,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 -------------------
 Overview : -
 ----------------------
-(https://github.com/manjeetkumawat/AtliQ_Hospitality_Analysis_PowerBI/assets/131505771/efc57a3b-30ad-47b9-93e2-461371783b15)
+![overall_view](https://github.com/manjeetkumawat/AtliQ_Hospitality_Analysis_PowerBI/assets/131505771/efc57a3b-30ad-47b9-93e2-461371783b15)
 
 Last Month Revenue: -
 -----------
-(https://github.com/manjeetkumawat/AtliQ_Hospitality_Analysis_PowerBI/assets/131505771/745a2178-e5b4-495f-8f74-16fa08f98291)
+![monthly_view](https://github.com/manjeetkumawat/AtliQ_Hospitality_Analysis_PowerBI/assets/131505771/745a2178-e5b4-495f-8f74-16fa08f98291)
