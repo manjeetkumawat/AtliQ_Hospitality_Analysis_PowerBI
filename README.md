@@ -22,4 +22,4 @@ Overview : -
 
 Last Month Revenue: -
 -----------
-![monthly_view](https://github.com/manjeetkumawat/AtliQ_Hospitality_Analysis_PowerBI/assets/131505771/745a2178-e5b4-495f-8f74-16fa08f98291)
+![monthly_view](https://github.com/manjeetkumawat/AtliQ_Hospitality_Analysis_PowerBI/assets/131505771/1b1633ac-938b-4b28-aa3b-da45eafa59c7)
